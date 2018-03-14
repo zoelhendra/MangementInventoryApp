@@ -1,0 +1,38 @@
+.head{
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #3F729B;
+    box-shadow: 10px 10px 5px grey;
+  }
+  h3{
+    font-family: Cambria, Georgia;
+    color: #fff;
+  }
+    
+    .Admwidget2{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    
+    .Admwidget1{
+        
+      margin-left: -5px;
+      padding-left: 5px;
+      padding-top: 20px;
+      padding-bottom: 10px;
+    }
+    #aw1{
+      width: 200px;
+      height: 25px;
+    }
+    
+    #aw2{
+      width: 20px;
+      height: 25px;
+    }
+.checkForm{
+  text-align: left;
+}
+.buttonform1{
+    text-align: center;
+  }
